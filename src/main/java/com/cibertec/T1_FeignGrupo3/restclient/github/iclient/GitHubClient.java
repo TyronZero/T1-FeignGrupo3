@@ -1,9 +1,9 @@
-package com.cibertec.T1_FeignGrupo3.github.client;
+package com.cibertec.T1_FeignGrupo3.restclient.github.iclient;
 
 import org.springframework.cloud.openfeign.FeignClient;
 import org.springframework.web.bind.annotation.GetMapping;
 
-import com.cibertec.T1_FeignGrupo3.github.dto.GitHubUserDto;
+import com.cibertec.T1_FeignGrupo3.restclient.github.model.GitHubUserDto;
 
 import java.util.List;
 
