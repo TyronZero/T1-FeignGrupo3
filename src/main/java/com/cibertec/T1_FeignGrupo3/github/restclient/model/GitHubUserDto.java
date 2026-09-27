@@ -1,4 +1,4 @@
-package com.cibertec.T1_FeignGrupo3.restclient.github.model;
+package com.cibertec.T1_FeignGrupo3.github.restclient.model;
 
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 import lombok.Getter;

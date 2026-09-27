@@ -1,10 +1,10 @@
-package com.cibertec.T1_FeignGrupo3.service;
+package com.cibertec.T1_FeignGrupo3.github.service;
 
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
 
-import com.cibertec.T1_FeignGrupo3.restclient.github.model.GitHubUserDto;
-import com.cibertec.T1_FeignGrupo3.restclient.github.iclient.GitHubClient;
+import com.cibertec.T1_FeignGrupo3.github.restclient.iclient.GitHubClient;
+import com.cibertec.T1_FeignGrupo3.github.restclient.model.GitHubUserDto;
 
 import java.util.List;
 
