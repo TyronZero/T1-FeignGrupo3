@@ -5,7 +5,7 @@ import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
-import com.cibertec.T1_FeignGrupo3.restclient.placeholder.model.BreweryData;
+import com.cibertec.T1_FeignGrupo3.restclient.brewery.model.BreweryData;
 import com.cibertec.T1_FeignGrupo3.service.BreweryService;
 
 import java.util.List;
