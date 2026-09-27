@@ -1,4 +1,4 @@
-package com.cibertec.T1_FeignGrupo3.restclient.brewery.model;
+package com.cibertec.T1_FeignGrupo3.brewery.restclient.model;
 
 import lombok.Getter;
 import lombok.Setter;

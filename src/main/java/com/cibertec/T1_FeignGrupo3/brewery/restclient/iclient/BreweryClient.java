@@ -1,8 +1,8 @@
-package com.cibertec.T1_FeignGrupo3.restclient.brewery.iclient;
+package com.cibertec.T1_FeignGrupo3.brewery.restclient.iclient;
 
 import org.springframework.cloud.openfeign.FeignClient;
 import org.springframework.web.bind.annotation.GetMapping;
-import com.cibertec.T1_FeignGrupo3.restclient.brewery.model.BreweryData;
+import com.cibertec.T1_FeignGrupo3.brewery.restclient.model.BreweryData;
 
 import java.util.List;
 
